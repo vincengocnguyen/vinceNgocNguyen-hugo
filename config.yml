@@ -22,8 +22,13 @@ params:
   disableScrollToTop: false
   comments: true
 
-  assets:
-    
+  profileMode:
+    enabled: true
+    imageUrl: /quyen_host-216x216.png
+    imageTitle: Vince's avatar
+    buttons:
+      - name: About
+        url: about   
 
 menu:
   main:
