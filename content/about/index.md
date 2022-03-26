@@ -1,5 +1,5 @@
 # About
-\<img src=“/assets/images/quyen-host.png” alt=“vince-profile-photo” class="img-responsive"\>
+![](/assets/images/quyen_host-216x216.png 'vince avatar')
 Hi there, Vince here. My real name is Quyền. It's tricky to pronounce for folks who don't speak Vietnamese so I decided to pick a nickname 15 years ago. [Guess where it came from](#)(https://en.wikipedia.org/wiki/Vincent_Valentine). 
 
 Professional, I'm a Cloud Customer Engineer / Sales Engineer at [@google](https://cloud.google.com) ☁️. I look after Enterprise customers in the UK Entertainment (Gaming & Gambling) sector. My specialisation is [Application Modernisation]((https://cloud.google.com/solutions/application-modernization)) - covering modern application development, CI/CD, containerisation/Kubernetes and more. All in all, to help businesses build products better, faster and cheaper. However, during my time at Google, I got a chance to [get hands on](https://www.investopedia.com/terms/b/baptism-by-fire.asp) with several complex Data transformation programmes. Now (I think) I know what I’m talking about when it comes to Data Engineering, Analytics & Machine Learning 🤔. 
